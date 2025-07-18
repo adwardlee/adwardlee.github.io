@@ -40,14 +40,21 @@ I am now an Researcher at Shanghai Artificial Intelligence Lab. Before joining S
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+# Research Experiences
+2023 - Present, Researcher, Shanghai AI Lab, Beijing, China.
+2021 - 2023， Researcher， DAMO Academy， Alibaba， Beijing, China.
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- ACL 2024 outstanding paper
+- 1st at Action Detection track on CVPR 2022 EPIC Kitchens 
+- 2nd at FreiHand Challenge
+- Outstanding Graduate Student 
+- National scholarship
 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.11*, [ACL2024 Benchmarks Introduction](https://www.bilibili.com/video/BV1KimoYaExY/) hosted by Opencompass
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Academic Services
+- 2024.07, Workshop Organizer, ICML 2024 workshop on [Trustworthy Multi-modal Foundation Models and AI Agents (TiFA)](https://icml-tifa.github.io/)
+- Reviewer for ICLR/ICML/NIPS/CVPR/ICCV since 2023

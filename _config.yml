@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lijun Li"
-description              : "Focusing on LLM/MLLM safety"
+description              : "Focusing on LLM/MLLM/Agent safety"
 repository               : "adwardlee/adwardlee.github.io"
 google_scholar_stats_use_cdn : true
 
