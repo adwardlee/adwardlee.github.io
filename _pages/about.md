@@ -204,12 +204,12 @@ ICML 2019
 - Reviewer for ICLR/ICML/NIPS/CVPR/ICCV since 2023
 
 
-<div id="clustrmaps-container" style="width: 150px; height: 150px; overflow: hidden; display: inline-block;">
+<div id="clustrmaps-container" style="width: 250px; height: 250px; overflow: hidden; display: inline-block;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=iyHOuSXOuyzJU7Wg20gI3dp8vVRLSMxuGfvfe03TqWo"></script>
 </div>
 <style>
 #clustrmaps-container > * {
-  transform: scale(0.6); /* 缩小到50%，可根据需要调整 */
+  transform: scale(1); /* 缩小到50%，可根据需要调整 */
   transform-origin: top left;
   display: block;
 }
