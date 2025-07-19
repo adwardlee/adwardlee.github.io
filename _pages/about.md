@@ -51,7 +51,7 @@ Ziqi Miao<sup>*</sup>, **Lijun Li**<sup>*‡</sup>, Yuan Xiong, Zhenhua Liu, Pen
 
 Preprint, 2025
 
-[Paper](https://arxiv.org/pdf/2507.05248) | [Data](https://huggingface.co/datasets/miaozq/RA-SFT)
+[Paper](https://arxiv.org/pdf/2507.05248) [Data](https://huggingface.co/datasets/miaozq/RA-SFT)
 
 </div>
 </div>
