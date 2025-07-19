@@ -84,7 +84,7 @@ ICML 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/t2isafety.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/paper_imgs/t2isafety.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **T2isafety: Benchmark for assessing fairness, toxicity, and privacy in image generation**
@@ -98,7 +98,7 @@ CVPR 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/mis_bench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/mis_bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Rethinking bottlenecks in safety fine-tuning of vision language models**
@@ -112,7 +112,7 @@ Preprint, 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 </div><img src='images/salad-bench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 </div><img src='images/paper_imgs/psysafe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Psysafe: A comprehensive framework for psychological-based attack, defense, and evaluation of multi-agent system safety**
@@ -126,7 +126,7 @@ Zaibin Zhang, Yongting Zhang, **Lijun Li**, Hongzhi Gao, Lijun Wang, Huchuan Lu,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/salad-bench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/paper_imgs/salad-bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SALAD-Bench: A Hierarchical and Comprehensive Safety Benchmark for Large Language Models**
@@ -140,7 +140,7 @@ ACL 2024 Findings
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/salad-bench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/paper_imgs/renderih.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Renderih: A large-scale synthetic dataset for 3d interacting hand pose estimation**
@@ -209,7 +209,7 @@ ICML 2019
 </div>
 <style>
 #clustrmaps-container > * {
-  transform: scale(0.3); /* 缩小到50%，可根据需要调整 */
+  transform: scale(0.6); /* 缩小到50%，可根据需要调整 */
   transform-origin: top left;
   display: block;
 }
