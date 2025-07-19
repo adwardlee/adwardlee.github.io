@@ -40,6 +40,34 @@ Topics: AI Safety/ Agent / Understanding
 
 (*: indicates equal contribution; ‡: indicates corresponding)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/t2isafety.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Worldsimbench: Towards video generation models as world simulators**
+
+Yiran Qin<sup>*</sup>, Zhelun Shi<sup>*</sup>, Jiwen Yu, Xijun Wang, Enshen Zhou, **Lijun Li**, Zhenfei Yin, Xihui Liu, Lu Sheng, Jing Shao<sup>‡</sup>, Lei Bai<sup>‡</sup>, Wanli Ouyang, Ruimao Zhang<sup>‡</sup>
+
+ICML 2025
+
+[Paper](https://arxiv.org/pdf/2410.18072) | [Project](https://iranqin.github.io/WorldSimBench.github.io/) | [ImageGuard](https://huggingface.co/OpenSafetyLab/ImageGuard)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/t2isafety.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**T2isafety: Benchmark for assessing fairness, toxicity, and privacy in image generation**
+
+**Lijun Li**<sup>*</sup>, Zhelun Shi<sup>*</sup>, Xuhao Hu, Bowen Dong, Yiran Qin, Xihui Liu, Lu Sheng, Jing Shao<sup>‡</sup>
+
+CVPR 2025
+
+[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_T2ISafety_Benchmark_for_Assessing_Fairness_Toxicity_and_Privacy_in_Image_CVPR_2025_paper.pdf) | [Data](https://huggingface.co/datasets/OpenSafetyLab/t2i_safety_dataset) | [ImageGuard](https://huggingface.co/OpenSafetyLab/ImageGuard)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/mis_bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -50,6 +78,9 @@ Yi Ding<sup>*</sup>, **Lijun Li**<sup>*</sup>, Bing Cao<sup>‡</sup>, Jing Shao
 Preprint, 2025
 
 [Paper](https://arxiv.org/pdf/2501.18533) | [Project](https://dripnowhy.github.io/MIS/) | [Data](https://huggingface.co/datasets/Tuwhy/MIS_Train) 
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/salad-bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -62,6 +93,8 @@ ACL 2024 Findings
 
 [Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) | [Project](https://adwardlee.github.io/salad_bench/) | [Code](https://github.com/OpenSafetyLab/SALAD-BENCH) |   [Data](https://huggingface.co/datasets/OpenSafetyLab/Salad-Data)  | [MD-Judge](https://huggingface.co/OpenSafetyLab/MD-Judge-v0_2-internlm2_7b) | [Leaderboard](https://huggingface.co/spaces/OpenSafetyLab/Salad-Bench-Leaderboard)
 
+</div>
+</div>
 
 **Nattack: Learning the distributions of adversarial examples for an improved black-box attack on deep neural networks**
 
@@ -71,8 +104,6 @@ ICML 2019
 
 [Paper](https://proceedings.mlr.press/v97/li19g/li19g.pdf) | [Code](https://github.com/adwardlee/Nattack)
 
-</div>
-</div>
 
 
 # 🖊️ Research Experiences
@@ -92,6 +123,6 @@ ICML 2019
 - *2024.11*, [ACL2024 Benchmarks Introduction](https://www.bilibili.com/video/BV1KimoYaExY/) hosted by [Opencompass](https://opencompass.org.cn/)
 - *2022.06*, [Winner talk of EPIC-KITCHENS 2022 Challenges at CVPR 2022](https://www.youtube.com/watch?v=kLRn-Q48hr0)
 
-# 💻 Academic Services
+# 👨‍🔧 Academic Services
 - 2024.07, Workshop Organizer, ICML 2024 workshop on [Trustworthy Multi-modal Foundation Models and AI Agents (TiFA)](https://icml-tifa.github.io/)
 - Reviewer for ICLR/ICML/NIPS/CVPR/ICCV since 2023
