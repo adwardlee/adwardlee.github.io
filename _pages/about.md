@@ -204,7 +204,7 @@ ICML 2019
 
 # 🖊️ Research Experiences
 - 2023 - Present, Researcher, Shanghai AI Lab, Beijing, China.
-- 2021 - 2023， Researcher， DAMO Academy， Alibaba， Beijing, China.
+- 2021 - 2023, Researcher, DAMO Academy, Alibaba, Beijing, China.
 
 # 🎖 Honors and Awards
 - ACL 2024 outstanding paper
