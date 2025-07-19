@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there! I am now an Researcher at Shanghai AI Lab. Before joining Shanghai AI Lab, I was a Research Engineer at Machine Intelligence Technology Lab, DAMO Academy, Alibaba Group, under the guidance of [Rong Jin](https://scholar.google.com/citations?hl=zh-CN&user=CS5uNscAAAAJ) and [Ping Tan](https://pingtan.people.ust.hk/index.html). I have been engaged in AI research and development since 2019. I am fortunate to have gained industry experience at [Alibaba DAMO Academy](https://damo.alibaba.com/?language=en), [Tencent AI Lab](https://ailab.tencent.com/ailab/en/index/), and Baidu IDL.
 
-<span style="color: red; font-weight: bold;">NOTE:</span> We are hiring full-time Researcher and Engineer， motivated interns and joint-training PhD students. If you are enthusiastic about Safety AI and wish to join us, contact me at lilijun@pjlab.org.cn directly!
+<span style="color: red; font-weight: bold;">NOTE:</span> We are hiring full-time Researcher and Engineer, motivated interns and joint-training PhD students. If you are enthusiastic about Safe AI and wish to join us, contact me at lilijun@pjlab.org.cn directly!
 
 _If interested in collaboration or discussion, please email me._
 
@@ -56,6 +56,8 @@ Preprint, 2025
 </div>
 </div>
 
+<!-- ------------------------------------------------------------- -->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/visco.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -69,6 +71,8 @@ Preprint, 2025
 
 </div>
 </div>
+
+<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_imgs/worldsimbench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -84,6 +88,8 @@ ICML 2025
 </div>
 </div>
 
+<!-- ------------------------------------------------------------- -->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/paper_imgs/t2isafety.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -97,6 +103,8 @@ CVPR 2025
 
 </div>
 </div>
+
+<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/mis_bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -112,6 +120,8 @@ Preprint, 2025
 </div>
 </div>
 
+<!-- ------------------------------------------------------------- -->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 </div><img src='images/paper_imgs/psysafe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -125,6 +135,8 @@ Zaibin Zhang, Yongting Zhang, **Lijun Li**, Hongzhi Gao, Lijun Wang, Huchuan Lu,
 
 </div>
 </div>
+
+<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/paper_imgs/salad-bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -140,6 +152,8 @@ ACL 2024 Findings
 </div>
 </div>
 
+<!-- ------------------------------------------------------------- -->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/paper_imgs/renderih.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -153,6 +167,8 @@ ICCV 2023
 
 </div>
 </div>
+
+<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/action_detection.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -168,6 +184,8 @@ Winning solution for Action Detection Track of EPIC@CVPR2022
 </div>
 </div>
 
+<!-- ------------------------------------------------------------- -->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2019</div><img src='images/paper_imgs/nattack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -181,6 +199,8 @@ ICML 2019
 
 </div>
 </div>
+
+<!-- ------------------------------------------------------------- -->
 
 # 🖊️ Research Experiences
 - 2023 - Present, Researcher, Shanghai AI Lab, Beijing, China.
