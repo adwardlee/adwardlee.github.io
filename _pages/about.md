@@ -145,7 +145,7 @@ ACL 2024 Findings
 
 **Renderih: A large-scale synthetic dataset for 3d interacting hand pose estimation**
 
-Lijun Li<sup>‡</sup>, Linrui Tian, Xindi Zhang, Qi Wang, Bang Zhang, Liefeng Bo, Mengyuan Liu, Chen Chen
+**Lijun Li**<sup>‡</sup>, Linrui Tian, Xindi Zhang, Qi Wang, Bang Zhang, Liefeng Bo, Mengyuan Liu, Chen Chen
 
 ICCV 2023
 
