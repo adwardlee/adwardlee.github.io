@@ -154,7 +154,7 @@ ICCV 2023
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_imgs/action_detection.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/action_detection.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **One-stage Action Detection Transformer**
@@ -168,7 +168,7 @@ Winning solution for Action Detection Track of EPIC@CVPR2022
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_imgs/nattack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2019</div><img src='images/paper_imgs/nattack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Nattack: Learning the distributions of adversarial examples for an improved black-box attack on deep neural networks**
