@@ -17,43 +17,80 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now an Researcher at Shanghai Artificial Intelligence Lab. Before joining Shanghai AI Lab, I was a Research Engineer at Damo Academy, Alibaba Group. My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Hi there! I am now an Researcher at Shanghai AI Lab. Before joining Shanghai AI Lab, I was a Research Engineer at Machine Intelligence Technology Lab, DAMO Academy, Alibaba Group, under the guidance of [Rong Jin](https://scholar.google.com/citations?hl=zh-CN&user=CS5uNscAAAAJ) and [Ping Tan](https://pingtan.people.ust.hk/index.html). I have been engaged in AI research and development since 2019. I am fortunate to have gained industry experience at [Alibaba DAMO Academy](https://damo.alibaba.com/?language=en), [Tencent AI Lab](https://ailab.tencent.com/ailab/en/index/), and Baidu IDL.
+
+_If interested in collaboration or discussion, please email me._
+
+# 🔭 Research Interest
+
+My research interests broadly lie in the areas of AI Safety and vision understanding. My goal is to build Safety capability balanced Artificial General Intelligence. To achieve this goal, my work focuses on first better understanding and then discover the safety vuneralibilities and make Safe AI from the very first begining. .
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05*: 🎉 Our paper [WorldSimBench](https://arxiv.org/pdf/2410.18072) has been accepted by ICML 2025.
+- *2025.02*: 🎉 Our paper [T2ISafety](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_T2ISafety_Benchmark_for_Assessing_Fairness_Toxicity_and_Privacy_in_Image_CVPR_2025_paper.pdf) has been accepted by CVPR 2025. 
+- *2024.05*: 🎉 Our paper [SALAD-Bench](https://aclanthology.org/2024.findings-acl.235.pdf) and [PsySafe](https://aclanthology.org/2024.acl-long.812.pdf) have been accepted by ACL 2024
+- *2023*: 🎉 Our paper [RenderIH](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_RenderIH_A_Large-Scale_Synthetic_Dataset_for_3D_Interacting_Hand_Pose_ICCV_2023_paper.pdf) has been accepted by ICCV 2023.
+- *2022.05*: 🎉🎉 We rank 1st at the Action Detection track of [EPIC@CVPR2022 Workshop](https://epic-kitchens.github.io/2022#results)
+
+- *2022.04*：🎉 We rank 2nd at the [FreiHAND Competition](https://competitions.codalab.org/competitions/21238)
 
 # 📝 Publications 
+Topics: AI Safety/ Agent / Understanding
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+(*: indicates equal contribution; ‡: indicates corresponding)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/mis_bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Rethinking bottlenecks in safety fine-tuning of vision language models**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Yi Ding<sup>*</sup>, **Lijun Li**<sup>*</sup>, Bing Cao<sup>‡</sup>, Jing Shao<sup>‡</sup>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Preprint, 2025
+
+[Paper](https://arxiv.org/pdf/2501.18533) | [Project](https://dripnowhy.github.io/MIS/) | [Data](https://huggingface.co/datasets/Tuwhy/MIS_Train) 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/salad-bench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SALAD-Bench: A Hierarchical and Comprehensive Safety Benchmark for Large Language Models**
+
+**Lijun Li**<sup>*</sup>, Bowen Dong<sup>*</sup>, Ruohui Wang<sup>*</sup>, Xuhao Hu<sup>*</sup>, Wangmeng Zuo, Dahua Lin, Yu Qiao, Jing Shao<sup>‡</sup>
+
+ACL 2024 Findings
+
+[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) | [Project](https://adwardlee.github.io/salad_bench/) | [Code](https://github.com/OpenSafetyLab/SALAD-BENCH) |   [Data](https://huggingface.co/datasets/OpenSafetyLab/Salad-Data)  | [MD-Judge](https://huggingface.co/OpenSafetyLab/MD-Judge-v0_2-internlm2_7b) | [Leaderboard](https://huggingface.co/spaces/OpenSafetyLab/Salad-Bench-Leaderboard)
+
+
+**Nattack: Learning the distributions of adversarial examples for an improved black-box attack on deep neural networks**
+
+Yandong Li<sup>*</sup>, **Lijun Li**<sup>*</sup>, Liqiang Wang, Tong Zhang, Boqing Gong
+
+ICML 2019
+
+[Paper](https://proceedings.mlr.press/v97/li19g/li19g.pdf) | [Code](https://github.com/adwardlee/Nattack)
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# Research Experiences
-2023 - Present, Researcher, Shanghai AI Lab, Beijing, China.
-2021 - 2023， Researcher， DAMO Academy， Alibaba， Beijing, China.
+# 🖊️ Research Experiences
+- 2023 - Present, Researcher, Shanghai AI Lab, Beijing, China.
+- 2021 - 2023， Researcher， DAMO Academy， Alibaba， Beijing, China.
 
 # 🎖 Honors and Awards
 - ACL 2024 outstanding paper
-- 1st at Action Detection track on CVPR 2022 EPIC Kitchens 
-- 2nd at FreiHand Challenge
+- 1st at [Action Detection track on CVPR 2022 EPIC Kitchens](https://epic-kitchens.github.io/2022)
+- 2nd at [FreiHand Challenge](https://competitions.codalab.org/competitions/21238#results)
+- 9/200 at [AI for prosthetics](https://www.aicrowd.com/challenges/neurips-2018-ai-for-prosthetics-challenge)
 - Outstanding Graduate Student 
 - National scholarship
 
 
 # 💬 Invited Talks
-- *2024.11*, [ACL2024 Benchmarks Introduction](https://www.bilibili.com/video/BV1KimoYaExY/) hosted by Opencompass
+- *2024.11*, [ACL2024 Benchmarks Introduction](https://www.bilibili.com/video/BV1KimoYaExY/) hosted by [Opencompass](https://opencompass.org.cn/)
+- *2022.06*, [Winner talk of EPIC-KITCHENS 2022 Challenges at CVPR 2022](https://www.youtube.com/watch?v=kLRn-Q48hr0)
 
 # 💻 Academic Services
 - 2024.07, Workshop Organizer, ICML 2024 workshop on [Trustworthy Multi-modal Foundation Models and AI Agents (TiFA)](https://icml-tifa.github.io/)
