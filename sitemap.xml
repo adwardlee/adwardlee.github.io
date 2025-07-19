@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/</loc>
+ <loc>https://adwardlee.github.io/</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-07-19</lastmod>
+ <changefreq>weekly</changefreq>
 </url>
 <url>
 <loc>/google1972f4054ea5fd93.html</loc>
