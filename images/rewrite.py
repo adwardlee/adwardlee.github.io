@@ -1,7 +1,7 @@
 import os
 from PIL import Image
 
-def resize_and_pad(img, size=(500, 300), color=(255, 255, 255)):
+def resize_and_pad(img, size=(500, 240), color=(255, 255, 255)):
     # 保持比例缩放
     img.thumbnail(size, Image.LANCZOS)
     # 创建白色背景
