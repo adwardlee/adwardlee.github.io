@@ -42,6 +42,9 @@ Topics: AI Safety/ Agent / Understanding
 
 (*: indicates equal contribution; ‡: indicates corresponding)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/response_attack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 **Response Attack: Exploiting Contextual Priming to Jailbreak Large Language Models**
 
 Ziqi Miao<sup>*</sup>, **Lijun Li**<sup>*‡</sup>, Yuan Xiong, Zhenhua Liu, Pengyu Zhu, Jing Shao<sup>‡</sup>
@@ -49,6 +52,12 @@ Ziqi Miao<sup>*</sup>, **Lijun Li**<sup>*‡</sup>, Yuan Xiong, Zhenhua Liu, Pen
 Preprint, 2025
 
 [Paper](https://arxiv.org/pdf/2507.05248) | [Data](https://huggingface.co/datasets/miaozq/RA-SFT)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/visco.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection**
 
@@ -58,7 +67,10 @@ Preprint, 2025
 
 [Paper](https://arxiv.org/pdf/2507.02844) | [Data](https://huggingface.co/datasets/miaozq/Visco-Attack)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/t2isafety.png' alt="sym" width="100%"></div></div>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_imgs/worldsimbench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Worldsimbench: Towards video generation models as world simulators**
@@ -72,24 +84,19 @@ ICML 2025
 </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 24px;">
-  <div style="flex: 0 0 320px; margin-right: 24px;">
-    <div class="badge">CVPR 2025</div>
-    <img src='images/t2isafety.png' alt="sym" style="width: 100%; display: block;">
-  </div>
-  <div class="paper-box-text" markdown="1" style="flex: 1;">
-  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/t2isafety.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 **T2isafety: Benchmark for assessing fairness, toxicity, and privacy in image generation**
 
 **Lijun Li**<sup>*</sup>, Zhelun Shi<sup>*</sup>, Xuhao Hu, Bowen Dong, Yiran Qin, Xihui Liu, Lu Sheng, Jing Shao<sup>‡</sup>
 
 CVPR 2025
 
-[Paper](https://openaccess.thecvf.org/content/CVPR2025/papers/Li_T2ISafety_Benchmark_for_Assessing_Fairness_Toxicity_and_Privacy_in_Image_CVPR_2025_paper.pdf) | [Data](https://huggingface.co/datasets/OpenSafetyLab/t2i_safety_dataset) | [ImageGuard](https://huggingface.co/OpenSafetyLab/ImageGuard)
+[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_T2ISafety_Benchmark_for_Assessing_Fairness_Toxicity_and_Privacy_in_Image_CVPR_2025_paper.pdf) | [Data](https://huggingface.co/datasets/OpenSafetyLab/t2i_safety_dataset) | [ImageGuard](https://huggingface.co/OpenSafetyLab/ImageGuard)
 
-  </div>
 </div>
-<hr style="margin-top: 0;">
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/mis_bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -147,6 +154,9 @@ ICCV 2023
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_imgs/action_detection.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 **One-stage Action Detection Transformer**
 
 **Lijun Li**, Li'an Zhuo, Bang Zhang
@@ -154,6 +164,12 @@ ICCV 2023
 Winning solution for Action Detection Track of EPIC@CVPR2022
 
 [Paper](https://arxiv.org/pdf/2206.10080)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper_imgs/nattack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **Nattack: Learning the distributions of adversarial examples for an improved black-box attack on deep neural networks**
 
@@ -163,7 +179,8 @@ ICML 2019
 
 [Paper](https://proceedings.mlr.press/v97/li19g/li19g.pdf) | [Code](https://github.com/adwardlee/Nattack)
 
-
+</div>
+</div>
 
 # 🖊️ Research Experiences
 - 2023 - Present, Researcher, Shanghai AI Lab, Beijing, China.
@@ -187,4 +204,13 @@ ICML 2019
 - Reviewer for ICLR/ICML/NIPS/CVPR/ICCV since 2023
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=iyHOuSXOuyzJU7Wg20gI3dp8vVRLSMxuGfvfe03TqWo"></script>
+<div id="clustrmaps-container" style="width: 150px; height: 150px; overflow: hidden; display: inline-block;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=iyHOuSXOuyzJU7Wg20gI3dp8vVRLSMxuGfvfe03TqWo"></script>
+</div>
+<style>
+#clustrmaps-container > * {
+  transform: scale(0.3); /* 缩小到50%，可根据需要调整 */
+  transform-origin: top left;
+  display: block;
+}
+</style>
