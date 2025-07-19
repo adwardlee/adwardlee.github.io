@@ -74,7 +74,19 @@
         flex-direction: column;
         justify-content: center;
     }
-    
+
+    .paper-box-text hr {
+        display: none;
+    }
+    .paper-box-text table,
+    .paper-box-text tr,
+    .paper-box-text td {
+        border: none !important;
+        border-bottom: none !important;
+        border-top: none !important;
+        background: none !important;
+        box-shadow: none !important;
+    }
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
@@ -114,4 +126,14 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+}
+
+.paper-box-text table,
+.paper-box-text tr,
+.paper-box-text td {
+    border: none !important;
+    border-bottom: none !important;
+    border-top: none !important;
+    background: none !important;
+    box-shadow: none !important;
 }
