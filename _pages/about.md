@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" append: site.repository append: "@" %}
 {% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" append: site.repository append: "/" %}
 {% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+{% assign url = gsDataBaseUrl append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
 
@@ -67,7 +67,7 @@ Ziqi Miao<sup>*</sup>, Yi Ding<sup>*</sup>, **Lijun Li**<sup>‡</sup>, Jing Sha
 
 Preprint, 2025
 
-[Paper](https://arxiv.org/pdf/2507.02844) | [Data](https://huggingface.co/datasets/miaozq/Visco-Attack)
+[Paper](https://arxiv.org/pdf/2507.02844) [Data](https://huggingface.co/datasets/miaozq/Visco-Attack)
 
 </div>
 </div>
@@ -83,7 +83,7 @@ Yiran Qin<sup>*</sup>, Zhelun Shi<sup>*</sup>, Jiwen Yu, Xijun Wang, Enshen Zhou
 
 ICML 2025
 
-[Paper](https://arxiv.org/pdf/2410.18072) | [Project](https://iranqin.github.io/WorldSimBench.github.io/) | [ImageGuard](https://huggingface.co/OpenSafetyLab/ImageGuard)
+[Paper](https://arxiv.org/pdf/2410.18072) [Project](https://iranqin.github.io/WorldSimBench.github.io/) [ImageGuard](https://huggingface.co/OpenSafetyLab/ImageGuard)
 
 </div>
 </div>
@@ -99,7 +99,7 @@ ICML 2025
 
 CVPR 2025
 
-[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_T2ISafety_Benchmark_for_Assessing_Fairness_Toxicity_and_Privacy_in_Image_CVPR_2025_paper.pdf) | [Data](https://huggingface.co/datasets/OpenSafetyLab/t2i_safety_dataset) | [ImageGuard](https://huggingface.co/OpenSafetyLab/ImageGuard)
+[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_T2ISafety_Benchmark_for_Assessing_Fairness_Toxicity_and_Privacy_in_Image_CVPR_2025_paper.pdf) [Data](https://huggingface.co/datasets/OpenSafetyLab/t2i_safety_dataset) [ImageGuard](https://huggingface.co/OpenSafetyLab/ImageGuard)
 
 </div>
 </div>
@@ -115,7 +115,7 @@ Yi Ding<sup>*</sup>, **Lijun Li**<sup>*</sup>, Bing Cao<sup>‡</sup>, Jing Shao
 
 Preprint, 2025
 
-[Paper](https://arxiv.org/pdf/2501.18533) | [Project](https://dripnowhy.github.io/MIS/) | [Data](https://huggingface.co/datasets/Tuwhy/MIS_Train) 
+[Paper](https://arxiv.org/pdf/2501.18533) [Project](https://dripnowhy.github.io/MIS/) [Data](https://huggingface.co/datasets/Tuwhy/MIS_Train) 
 
 </div>
 </div>
@@ -131,7 +131,7 @@ Zaibin Zhang, Yongting Zhang, **Lijun Li**, Hongzhi Gao, Lijun Wang, Huchuan Lu,
 
 🎖️ACL 2024 Outstanding Paper
 
-[Paper](https://aclanthology.org/2024.acl-long.812.pdf) | [Code](https://github.com/AI4Good24/PsySafe)
+[Paper](https://aclanthology.org/2024.acl-long.812.pdf) [Code](https://github.com/AI4Good24/PsySafe)
 
 </div>
 </div>
@@ -147,7 +147,7 @@ Zaibin Zhang, Yongting Zhang, **Lijun Li**, Hongzhi Gao, Lijun Wang, Huchuan Lu,
 
 ACL 2024 Findings
 
-[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) | [Project](https://adwardlee.github.io/salad_bench/) | [Code](https://github.com/OpenSafetyLab/SALAD-BENCH) |   [Data](https://huggingface.co/datasets/OpenSafetyLab/Salad-Data)  | [MD-Judge](https://huggingface.co/OpenSafetyLab/MD-Judge-v0_2-internlm2_7b) | [Leaderboard](https://huggingface.co/spaces/OpenSafetyLab/Salad-Bench-Leaderboard)
+[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) [Project](https://adwardlee.github.io/salad_bench/) [Code](https://github.com/OpenSafetyLab/SALAD-BENCH)   [Data](https://huggingface.co/datasets/OpenSafetyLab/Salad-Data)  [MD-Judge](https://huggingface.co/OpenSafetyLab/MD-Judge-v0_2-internlm2_7b) [Leaderboard](https://huggingface.co/spaces/OpenSafetyLab/Salad-Bench-Leaderboard)
 
 </div>
 </div>
@@ -163,7 +163,7 @@ ACL 2024 Findings
 
 ICCV 2023
 
-[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_RenderIH_A_Large-Scale_Synthetic_Dataset_for_3D_Interacting_Hand_Pose_ICCV_2023_paper.pdf) | [Code](https://github.com/adwardlee/RenderIH) | [Imgs](https://drive.google.com/file/d/1nl5VZvnKN3SIJnBOis4rfsuG_DT0smLl/view?usp=drive_link) | [Annotations](https://drive.google.com/file/d/1wOuZTgWODhyelLXJr7Kv9tuEiFxcWIif/view?usp=drive_link)
+[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_RenderIH_A_Large-Scale_Synthetic_Dataset_for_3D_Interacting_Hand_Pose_ICCV_2023_paper.pdf) [Code](https://github.com/adwardlee/RenderIH) [Imgs](https://drive.google.com/file/d/1nl5VZvnKN3SIJnBOis4rfsuG_DT0smLl/view?usp=drive_link) [Annotations](https://drive.google.com/file/d/1wOuZTgWODhyelLXJr7Kv9tuEiFxcWIif/view?usp=drive_link)
 
 </div>
 </div>
@@ -195,7 +195,7 @@ Yandong Li<sup>*</sup>, **Lijun Li**<sup>*</sup>, Liqiang Wang, Tong Zhang, Boqi
 
 ICML 2019
 
-[Paper](https://proceedings.mlr.press/v97/li19g/li19g.pdf) | [Code](https://github.com/adwardlee/Nattack)
+[Paper](https://proceedings.mlr.press/v97/li19g/li19g.pdf) [Code](https://github.com/adwardlee/Nattack)
 
 </div>
 </div>
