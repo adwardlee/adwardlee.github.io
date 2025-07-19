@@ -19,11 +19,13 @@ redirect_from:
 
 Hi there! I am now an Researcher at Shanghai AI Lab. Before joining Shanghai AI Lab, I was a Research Engineer at Machine Intelligence Technology Lab, DAMO Academy, Alibaba Group, under the guidance of [Rong Jin](https://scholar.google.com/citations?hl=zh-CN&user=CS5uNscAAAAJ) and [Ping Tan](https://pingtan.people.ust.hk/index.html). I have been engaged in AI research and development since 2019. I am fortunate to have gained industry experience at [Alibaba DAMO Academy](https://damo.alibaba.com/?language=en), [Tencent AI Lab](https://ailab.tencent.com/ailab/en/index/), and Baidu IDL.
 
+<span style="color: red; font-weight: bold;">NOTE:</span> We are hiring full-time Researcher and Engineer， motivated interns and joint-training PhD students. If you are enthusiastic about Safety AI and wish to join us, contact me at lilijun@pjlab.org.cn directly!
+
 _If interested in collaboration or discussion, please email me._
 
 # 🔭 Research Interest
 
-My research interests broadly lie in the areas of AI Safety and vision understanding. My goal is to build Safety capability balanced Artificial General Intelligence. To achieve this goal, my work focuses on first better understanding and then discover the safety vuneralibilities and make Safe AI from the very first begining. .
+My research interests lie at the nexus of AI safety and visual understanding. I aim to develop artificial general intelligence with built‑in, balanced safety capabilities. To this end, I concentrate on thoroughly characterizing AI safety vulnerabilities，and embedding robust protective measures from the very outset of model design and training.
 
 
 # 🔥 News
@@ -42,7 +44,7 @@ Topics: AI Safety/ Agent / Understanding
 
 **Response Attack: Exploiting Contextual Priming to Jailbreak Large Language Models**
 
-Ziqi Miao, Lijun Li, Yuan Xiong, Zhenhua Liu, Pengyu Zhu, Jing Shao
+Ziqi Miao<sup>*</sup>, **Lijun Li**<sup>*‡</sup>, Yuan Xiong, Zhenhua Liu, Pengyu Zhu, Jing Shao<sup>‡</sup>
 
 Preprint, 2025
 
@@ -50,7 +52,7 @@ Preprint, 2025
 
 **Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection**
 
-Ziqi Miao, Yi Ding, Lijun Li, Jing Shao
+Ziqi Miao<sup>*</sup>, Yi Ding<sup>*</sup>, **Lijun Li**<sup>‡</sup>, Jing Shao<sup>‡</sup>
 
 Preprint, 2025
 
@@ -70,8 +72,12 @@ ICML 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/t2isafety.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div style="display: flex; align-items: flex-start; margin-bottom: 24px;">
+  <div style="flex: 0 0 320px; margin-right: 24px;">
+    <div class="badge">CVPR 2025</div>
+    <img src='images/t2isafety.png' alt="sym" style="width: 100%; display: block;">
+  </div>
+  <div style="flex: 1;">
 
 **T2isafety: Benchmark for assessing fairness, toxicity, and privacy in image generation**
 
@@ -79,10 +85,11 @@ ICML 2025
 
 CVPR 2025
 
-[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_T2ISafety_Benchmark_for_Assessing_Fairness_Toxicity_and_Privacy_in_Image_CVPR_2025_paper.pdf) | [Data](https://huggingface.co/datasets/OpenSafetyLab/t2i_safety_dataset) | [ImageGuard](https://huggingface.co/OpenSafetyLab/ImageGuard)
+[Paper](https://openaccess.thecvf.org/content/CVPR2025/papers/Li_T2ISafety_Benchmark_for_Assessing_Fairness_Toxicity_and_Privacy_in_Image_CVPR_2025_paper.pdf) | [Data](https://huggingface.co/datasets/OpenSafetyLab/t2i_safety_dataset) | [ImageGuard](https://huggingface.co/OpenSafetyLab/ImageGuard)
 
+  </div>
 </div>
-</div>
+<hr style="margin-top: 0;">
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/mis_bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -136,6 +143,17 @@ Lijun Li<sup>‡</sup>, Linrui Tian, Xindi Zhang, Qi Wang, Bang Zhang, Liefeng B
 ICCV 2023
 
 [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_RenderIH_A_Large-Scale_Synthetic_Dataset_for_3D_Interacting_Hand_Pose_ICCV_2023_paper.pdf) | [Code](https://github.com/adwardlee/RenderIH) | [Imgs](https://drive.google.com/file/d/1nl5VZvnKN3SIJnBOis4rfsuG_DT0smLl/view?usp=drive_link) | [Annotations](https://drive.google.com/file/d/1wOuZTgWODhyelLXJr7Kv9tuEiFxcWIif/view?usp=drive_link)
+
+</div>
+</div>
+
+**One-stage Action Detection Transformer**
+
+**Lijun Li**, Li'an Zhuo, Bang Zhang
+
+Winning solution for Action Detection Track of EPIC@CVPR2022
+
+[Paper](https://arxiv.org/pdf/2206.10080)
 
 **Nattack: Learning the distributions of adversarial examples for an improved black-box attack on deep neural networks**
 
