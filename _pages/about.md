@@ -77,8 +77,8 @@ ICML 2025
     <div class="badge">CVPR 2025</div>
     <img src='images/t2isafety.png' alt="sym" style="width: 100%; display: block;">
   </div>
-  <div style="flex: 1;">
-
+  <div class="paper-box-text" markdown="1" style="flex: 1;">
+  
 **T2isafety: Benchmark for assessing fairness, toxicity, and privacy in image generation**
 
 **Lijun Li**<sup>*</sup>, Zhelun Shi<sup>*</sup>, Xuhao Hu, Bowen Dong, Yiran Qin, Xihui Liu, Lu Sheng, Jing Shao<sup>‡</sup>
