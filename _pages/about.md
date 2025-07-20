@@ -32,6 +32,7 @@ My research interests lie at the nexus of AI safety and visual understanding. I 
 - *2025.05*: 🎉 Our paper [WorldSimBench](https://arxiv.org/pdf/2410.18072) has been accepted by ICML 2025.
 - *2025.02*: 🎉 Our paper [T2ISafety](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_T2ISafety_Benchmark_for_Assessing_Fairness_Toxicity_and_Privacy_in_Image_CVPR_2025_paper.pdf) has been accepted by CVPR 2025. 
 - *2024.05*: 🎉 Our paper [SALAD-Bench](https://aclanthology.org/2024.findings-acl.235.pdf) and [PsySafe](https://aclanthology.org/2024.acl-long.812.pdf) have been accepted by ACL 2024
+- *2024.03*: We release an easy-to-use Python framework to generate adversarial jailbreak prompts at [website](http://easyjailbreak.org/).
 - *2023*: 🎉 Our paper [RenderIH](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_RenderIH_A_Large-Scale_Synthetic_Dataset_for_3D_Interacting_Hand_Pose_ICCV_2023_paper.pdf) has been accepted by ICCV 2023.
 - *2022.05*: 🎉🎉 We rank 1st at the Action Detection track of [EPIC@CVPR2022 Workshop](https://epic-kitchens.github.io/2022#results)
 
@@ -84,6 +85,22 @@ Yiran Qin<sup>*</sup>, Zhelun Shi<sup>*</sup>, Jiwen Yu, Xijun Wang, Enshen Zhou
 ICML 2025
 
 [Paper](https://arxiv.org/pdf/2410.18072) [Project](https://iranqin.github.io/WorldSimBench.github.io/) [ImageGuard](https://huggingface.co/OpenSafetyLab/ImageGuard)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/iter_decoding.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Iterative value function optimization for guided decoding**
+
+Zhenhua Liu<sup>*</sup>, **Lijun Li**<sup>*</sup>, Ruizhe Chen, Yuxian Jiang, Tong Zhu, Zhaochen Su, Wenliang Chen, Jing Shao<sup>‡</sup>
+
+Preprint, 2025
+
+[Paper](https://arxiv.org/pdf/2503.02368)
 
 </div>
 </div>
@@ -152,6 +169,39 @@ ACL 2024 Findings
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/easyjailbreak.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**EasyJailbreak: A Unified Framework for Jailbreaking Large Language Models**
+
+Weikang Zhou, Xiao Wang, Limao Xiong, Han Xia, Yingshuang Gu, Mingxu Chai, Fukang Zhu, Caishuang Huang, Shihan Dou, Zhiheng Xi, Rui Zheng, Songyang Gao, Yicheng Zou, Hang Yan, Yifan Le, Ruohui Wang, **Lijun Li**, Jing Shao, Tao Gui, Qi Zhang, Xuanjing Huang
+
+Preprint, 2024
+
+[Paper](https://arxiv.org/pdf/2403.12171) [Project](http://easyjailbreak.org/) [Code](https://github.com/EasyJailbreak/EasyJailbreak)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/ch3ef.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Assessment of multimodal large language models in alignment with human values**
+
+Zhelun Shi, Zhipin Wang, Hongxing Fan, Zaibin Zhang, **Lijun Li**, Yongting Zhang, Zhenfei Yin, Lu Sheng, Yu Qiao, Jing Shao
+
+Preprint, 2024
+
+[Paper](https://arxiv.org/pdf/2403.17830) [Project](https://openlamm.github.io/ch3ef/) [Code](https://github.com/OpenGVLab/LAMM)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+
 <!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/paper_imgs/renderih.png' alt="sym" width="100%"></div></div>
@@ -177,7 +227,7 @@ ICCV 2023
 
 **Lijun Li**, Li'an Zhuo, Bang Zhang
 
-Winning solution for Action Detection Track of EPIC@CVPR2022
+🎖️Winning solution for Action Detection Track of EPIC@CVPR2022
 
 [Paper](https://arxiv.org/pdf/2206.10080)
 
