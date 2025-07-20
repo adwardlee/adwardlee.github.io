@@ -221,7 +221,7 @@ ICML 2019
 
 # 👨‍🔧 Academic Services
 - 2024.07, Workshop Organizer, ICML 2024 workshop on [Trustworthy Multi-modal Foundation Models and AI Agents (TiFA)](https://icml-tifa.github.io/)
-- Reviewer for ICLR/ICML/NIPS/CVPR/ICCV since 2023
+- Reviewer for ICLR/ICML/NIPS/CVPR/ICCV/ARR since 2023
 
 
 <div id="clustrmaps-container" style="width: 250px; height: 250px; overflow: hidden; display: inline-block;">
