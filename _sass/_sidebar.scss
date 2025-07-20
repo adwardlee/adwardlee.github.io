@@ -92,8 +92,10 @@
   }
 
   img {
-    max-width: 175px;
-    min-width: 75px;
+    width: 175px;
+    height: 100px;
+    object-fit: cover; // 保证图片不变形
+    border-radius: 0 !important;
     // border-radius: 50%;
 
     @include breakpoint($large) {
