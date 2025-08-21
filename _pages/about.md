@@ -29,6 +29,7 @@ My research interests lie at the nexus of AI safety and visual understanding. I 
 
 
 # 🔥 News
+- *2025.08*: 🎉 Our paper [LARF](https://arxiv.org/pdf/2507.18631), [Visco-attack](https://arxiv.org/pdf/2507.02844) and [RMS](tobe uploaded) have been accepted by EMNLP 2025.
 - *2025.05*: 🎉 Our paper [WorldSimBench](https://arxiv.org/pdf/2410.18072) has been accepted by ICML 2025.
 - *2025.02*: 🎉 Our paper [T2ISafety](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_T2ISafety_Benchmark_for_Assessing_Fairness_Toxicity_and_Privacy_in_Image_CVPR_2025_paper.pdf) has been accepted by CVPR 2025. 
 - *2024.05*: 🎉 Our paper [SALAD-Bench](https://aclanthology.org/2024.findings-acl.235.pdf) and [PsySafe](https://aclanthology.org/2024.acl-long.812.pdf) have been accepted by ACL 2024
@@ -59,14 +60,30 @@ Preprint, 2025
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/visco.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP</div><img src='images/paper_imgs/LARF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Layer-Aware Representation Filtering: Purifying Finetuning Data to Preserve LLM Safety Alignment**
+
+Hao Li<sup>*</sup>, **Lijun Li**<sup>*‡</sup>, Zhenghao Lu, Xianyi Wei, Rui Li, Jing Shao<sup>‡</sup>, Lei Sha<sup>‡</sup>
+
+EMNLP 2025
+
+[Paper](https://arxiv.org/pdf/2507.02844) [Data](https://huggingface.co/datasets/miaozq/Visco-Attack)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP</div><img src='images/paper_imgs/visco.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection**
 
 Ziqi Miao<sup>*</sup>, Yi Ding<sup>*</sup>, **Lijun Li**<sup>‡</sup>, Jing Shao<sup>‡</sup>
 
-Preprint, 2025
+EMNLP 2025
 
 [Paper](https://arxiv.org/pdf/2507.02844) [Data](https://huggingface.co/datasets/miaozq/Visco-Attack)
 
