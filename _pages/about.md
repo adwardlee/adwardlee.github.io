@@ -69,7 +69,7 @@ Hao Li<sup>*</sup>, **Lijun Li**<sup>*‡</sup>, Zhenghao Lu, Xianyi Wei, Rui Li
 
 EMNLP 2025
 
-[Paper](https://arxiv.org/pdf/2507.02844) [Data](https://huggingface.co/datasets/miaozq/Visco-Attack)
+[Paper](https://arxiv.org/pdf/2507.18631) [Code](https://github.com/LLLeoLi/LARF)
 
 </div>
 </div>
