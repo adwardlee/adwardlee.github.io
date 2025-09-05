@@ -76,7 +76,7 @@ Preprint, 2025
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP</div><img src='images/paper_imgs/LARF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/paper_imgs/LARF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Layer-Aware Representation Filtering: Purifying Finetuning Data to Preserve LLM Safety Alignment**
@@ -92,7 +92,7 @@ EMNLP 2025
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP</div><img src='images/paper_imgs/visco.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/paper_imgs/visco.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection**
