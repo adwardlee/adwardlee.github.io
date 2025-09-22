@@ -29,6 +29,7 @@ My research interests lie at the nexus of AI safety and visual understanding. I 
 
 
 # 🔥 News
+- *2025.09*: 🎉 Our papers [Stop Summation](https://arxiv.org/pdf/2504.15275) has been accepted by Neurips 2025.
 - *2025.08*: 🎉 Our papers [LARF](https://arxiv.org/pdf/2507.18631), [Visco-attack](https://arxiv.org/pdf/2507.02844) and [RMS](https://arxiv.org/pdf/2509.04403) have been accepted by EMNLP 2025.
 - *2025.05*: 🎉 Our paper [WorldSimBench](https://arxiv.org/pdf/2410.18072) has been accepted by ICML 2025.
 - *2025.02*: 🎉 Our paper [T2ISafety](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_T2ISafety_Benchmark_for_Assessing_Fairness_Toxicity_and_Privacy_in_Image_CVPR_2025_paper.pdf) has been accepted by CVPR 2025. 
