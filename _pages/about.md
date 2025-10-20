@@ -45,6 +45,56 @@ Topics: AI Safety/ Agent / Understanding
 
 (*: indicates equal contribution; ‡: indicates corresponding)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/star-attack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**STaR-Attack: A Spatio-Temporal and Narrative Reasoning Attack Framework for Unified Multimodal Understanding and Generation Models**
+
+Shaoxiong Guo<sup>*</sup>, Tianyi Du<sup>*</sup>, **Lijun Li**<sup>*‡</sup>, Yuyao Wu, Jie Li, Jing Shao<sup>‡</sup>
+
+Preprint, 2025
+
+[Paper](https://arxiv.org/pdf/2509.26473)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/shadow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Collaborative Shadows: Distributed Backdoor Attacks in LLM-Based Multi-Agent Systems**
+
+Pengyu Zhu<sup>*</sup>, **Lijun Li**<sup>*‡</sup>, Yaxing Lyu<sup>*</sup>, Li Sun, Sen Su<sup>‡</sup>, Jing Shao<sup>‡</sup>
+
+Preprint, 2025
+
+[Paper](https://arxiv.org/pdf/2510.11246) [Code](https://github.com/whfeLingYu/Distributed-Backdoor-Attacks-in-MAS)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/harmrlvr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**HarmRLVR: Weaponizing Verifiable Rewards for Harmful LLM Alignment**
+
+Yuexiao Liu<sup>*</sup>, **Lijun Li**<sup>*‡</sup>, Xingjun Wang, Jing Shao<sup>‡</sup>
+
+Preprint, 2025
+
+[Paper](https://arxiv.org/pdf/2510.15499) [Code](https://github.com/lyxx2535/HarmRLVR)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 Findings</div><img src='images/paper_imgs/rms.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
