@@ -29,6 +29,7 @@ My research interests lie at the nexus of AI safety and visual understanding. I 
 
 
 # 🔥 News
+- *2025.11*：🎉 Our paper [Response ATTack](https://arxiv.org/pdf/2507.05248) has been accepted by AAAI 2026.
 - *2025.09*: 🎉 Our paper [PURE](https://arxiv.org/pdf/2504.15275) has been accepted by Neurips 2025.
 - *2025.08*: 🎉 Our papers [LARF](https://arxiv.org/pdf/2507.18631), [Visco-attack](https://arxiv.org/pdf/2507.02844) and [RMS](https://arxiv.org/pdf/2509.04403) have been accepted by EMNLP 2025.
 - *2025.05*: 🎉 Our paper [WorldSimBench](https://arxiv.org/pdf/2410.18072) has been accepted by ICML 2025.
@@ -111,14 +112,14 @@ EMNLP 2025 Findings
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/response_attack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/paper_imgs/response_attack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Response Attack: Exploiting Contextual Priming to Jailbreak Large Language Models**
 
 Ziqi Miao<sup>*</sup>, **Lijun Li**<sup>*‡</sup>, Yuan Xiong, Zhenhua Liu, Pengyu Zhu, Jing Shao<sup>‡</sup>
 
-Preprint, 2025
+AAAI, 2026
 
 [Paper](https://arxiv.org/pdf/2507.05248) [Data](https://huggingface.co/datasets/miaozq/RA-SFT)
 
