@@ -95,6 +95,21 @@ Preprint, 2025
 
 <!-- ------------------------------------------------------------- -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech report</div><img src='images/paper_imgs/safework-r1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SafeWork-R1: Coevolving Safety and Intelligence under the AI-45◦ Law**
+
+Worked as Co-Leads
+
+Tech report, 2025
+
+[Paper](https://arxiv.org/pdf/2510.15499) [Code](https://github.com/lyxx2535/HarmRLVR)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 Findings</div><img src='images/paper_imgs/rms.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
