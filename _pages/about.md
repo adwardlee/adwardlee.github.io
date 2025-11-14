@@ -34,7 +34,7 @@ My research interests lie at the nexus of AI safety and visual understanding. I 
 - *2025.08*: 🎉 Our papers [LARF](https://arxiv.org/pdf/2507.18631), [Visco-attack](https://arxiv.org/pdf/2507.02844) and [RMS](https://arxiv.org/pdf/2509.04403) have been accepted by EMNLP 2025.
 - *2025.05*: 🎉 Our paper [WorldSimBench](https://arxiv.org/pdf/2410.18072) has been accepted by ICML 2025.
 - *2025.02*: 🎉 Our paper [T2ISafety](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_T2ISafety_Benchmark_for_Assessing_Fairness_Toxicity_and_Privacy_in_Image_CVPR_2025_paper.pdf) has been accepted by CVPR 2025. 
-- *2024.05*: 🎉 Our papers [SALAD-Bench](https://aclanthology.org/2024.findings-acl.235.pdf) and [PsySafe](https://aclanthology.org/2024.acl-long.812.pdf) have been accepted by ACL 2024. **PsySafe** is awarded as **outstanding paper**.
+- *2024.05*: 🎉 Our papers [SALAD-Bench](https://aclanthology.org/2024.findings-acl.235.pdf) and [PsySafe](https://aclanthology.org/2024.acl-long.812.pdf) have been accepted by ACL 2024. **PsySafe** is awarded as **Outstanding paper**.
 - *2024.03*: 🎉 We release an easy-to-use Python framework to generate adversarial jailbreak prompts at [website](http://easyjailbreak.org/).
 - *2023*: 🎉 Our paper [RenderIH](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_RenderIH_A_Large-Scale_Synthetic_Dataset_for_3D_Interacting_Hand_Pose_ICCV_2023_paper.pdf) has been accepted by ICCV 2023.
 - *2022.05*: 🎉🎉 We rank 1st at the Action Detection track of [EPIC@CVPR2022 Workshop](https://epic-kitchens.github.io/2022#results)
