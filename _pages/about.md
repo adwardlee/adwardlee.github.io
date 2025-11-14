@@ -104,7 +104,7 @@ Worked as Co-Leads
 
 Tech report, 2025
 
-[Paper](https://arxiv.org/pdf/2510.15499) [Code](https://github.com/lyxx2535/HarmRLVR)
+[Paper](https://arxiv.org/pdf/2507.18576) 
 
 </div>
 </div>
