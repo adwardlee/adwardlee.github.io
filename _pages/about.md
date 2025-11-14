@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I am now an Researcher at Shanghai AI Lab. Before joining Shanghai AI Lab, I was a Research Engineer at Machine Intelligence Technology Lab, DAMO Academy, Alibaba Group, under the guidance of [Rong Jin](https://scholar.google.com/citations?hl=zh-CN&user=CS5uNscAAAAJ) and [Ping Tan](https://pingtan.people.ust.hk/index.html). I have been engaged in AI research and development since 2019. I am fortunate to have gained industry experience at [Alibaba DAMO Academy](https://damo.alibaba.com/?language=en), [Tencent AI Lab](https://ailab.tencent.com/ailab/en/index/), and Baidu IDL.
+Hi there! I am now an Researcher at Shanghai AI Lab. Before joining Shanghai AI Lab, I was a Researcher at Machine Intelligence Technology Lab, DAMO Academy, Alibaba Group, under the guidance of [Rong Jin](https://scholar.google.com/citations?hl=zh-CN&user=CS5uNscAAAAJ) and [Ping Tan](https://pingtan.people.ust.hk/index.html). I have been engaged in AI research and development since 2019 after PHD graduation. I am fortunate to have gained industry experience at [Alibaba DAMO Academy](https://damo.alibaba.com/?language=en), [Tencent AI Lab](https://ailab.tencent.com/ailab/en/index/), and Baidu IDL.
 
 <span style="color: red; font-weight: bold;">NOTE:</span> We are hiring full-time Researcher and Engineer, motivated interns and joint-training PhD students. If you are enthusiastic about Safe AI and wish to join us, contact me at lilijun@pjlab.org.cn directly!
 
@@ -29,7 +29,7 @@ My research interests lie at the nexus of AI safety and visual understanding. I 
 
 
 # 🔥 News
-- *2025.11*：🎉 Our paper [Response ATTack](https://arxiv.org/pdf/2507.05248) has been accepted by AAAI 2026.
+- *2025.11*：🎉 Our paper [Response Attack](https://arxiv.org/pdf/2507.05248) has been accepted by AAAI 2026.
 - *2025.09*: 🎉 Our paper [PURE](https://arxiv.org/pdf/2504.15275) has been accepted by Neurips 2025.
 - *2025.08*: 🎉 Our papers [LARF](https://arxiv.org/pdf/2507.18631), [Visco-attack](https://arxiv.org/pdf/2507.02844) and [RMS](https://arxiv.org/pdf/2509.04403) have been accepted by EMNLP 2025.
 - *2025.05*: 🎉 Our paper [WorldSimBench](https://arxiv.org/pdf/2410.18072) has been accepted by ICML 2025.
