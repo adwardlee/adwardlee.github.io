@@ -47,6 +47,22 @@ Topics: AI Safety/ Agent / Understanding
 
 (*: indicates equal contribution; ‡: indicates corresponding)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/CIA_attack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Contextual Image Attack: How Visual Context Exposes Multimodal Safety Vulnerabilities**
+
+Yuan Xiong<sup>*</sup>, Ziqi Miao<sup>*</sup>, **Lijun Li**<sup>*‡</sup>, Chen Qian, Jie Li, Jing Shao<sup>‡</sup>
+
+Preprint, 2025
+
+[Paper](https://arxiv.org/pdf/2512.02973)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/star-attack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -372,6 +388,7 @@ ICML 2019
 
 # 👨‍🔧 Academic Services
 - 2024.07, Workshop Organizer, ICML 2024 workshop on [Trustworthy Multi-modal Foundation Models and AI Agents (TiFA)](https://icml-tifa.github.io/)
+- Area Chair for ARR since 2025
 - Reviewer for ICLR/ICML/NIPS/CVPR/ICCV/ARR since 2023
 
 
