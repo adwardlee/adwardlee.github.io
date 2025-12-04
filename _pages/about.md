@@ -56,7 +56,7 @@ Yuan Xiong<sup>*</sup>, Ziqi Miao<sup>*</sup>, **Lijun Li**<sup>*‡</sup>, Chen
 
 Preprint, 2025
 
-[Paper](https://arxiv.org/pdf/2512.02973)
+[Paper](https://arxiv.org/pdf/2512.02973) [Code](https://github.com/xiongyuaay/Contextual-Image-Attack)
 
 </div>
 </div>
