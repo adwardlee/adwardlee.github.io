@@ -50,6 +50,53 @@ Topics: AI Safety/ Agent / Understanding
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/CIA_attack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+
+**Toward Efficient Agents: A Survey of Memory, Tool learning, and Planning**
+
+Xiaofang Yang, Lijun Li<sup>‡</sup>, Heng Zhou, Tong Zhu, Xiaoye Qu, Yuchen Fan, Qianshan Wei, Rui Ye, Li Kang, Yiran Qin, Zhiqiang Kou, Daizong Liu, Qi Li, Ning Ding, Siheng Chen, Jing Shao<sup>‡</sup>
+
+Preprint, 2026
+
+[Paper](https://arxiv.org/pdf/2601.14192) [Project](https://efficient-agents.github.io/) [Code](https://github.com/yxf203/Awesome-Efficient-Agents)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/toolsafe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ToolSafe: Enhancing Tool Invocation Safety of LLM-based agents via Proactive Step-level Guardrail and Feedback**
+
+Yutao Mou, Zhangchi Xue, Lijun Li<sup>‡</sup>, Peiyang Liu, Shikun Zhang, Wei Ye<sup>‡</sup>, Jing Shao<sup>‡</sup>
+
+Preprint, 2026
+
+[Paper](https://arxiv.org/pdf/2601.10156) [Code](https://github.com/MurrayTom/ToolSafe)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/proguard.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ProGuard: Towards Proactive Multimodal Safeguard**
+
+Shaohan Yu<sup>*</sup>, Lijun Li<sup>*‡</sup>, Chenyang Si, Lu Sheng, Jing Shao<sup>‡</sup>
+
+Preprint, 2025
+
+[Paper](https://arxiv.org/pdf/2512.23573) [Code](https://github.com/yushaohan/ProGuard)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/CIA_attack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 **Contextual Image Attack: How Visual Context Exposes Multimodal Safety Vulnerabilities**
 
 Yuan Xiong<sup>*</sup>, Ziqi Miao<sup>*</sup>, **Lijun Li**<sup>*‡</sup>, Chen Qian, Jie Li, Jing Shao<sup>‡</sup>
