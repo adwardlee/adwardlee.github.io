@@ -29,6 +29,7 @@ My research interests lie at the nexus of AI safety and visual understanding. I 
 
 
 # 🔥 News
+- *2026.01*: 🎉 We release a comprehensive survey paper about [Efficient Agent](https://arxiv.org/pdf/2601.14192).
 - *2025.11*：🎉 Our paper [Response Attack](https://arxiv.org/pdf/2507.05248) has been accepted by AAAI 2026.
 - *2025.09*: 🎉 Our paper [PURE](https://arxiv.org/pdf/2504.15275) has been accepted by Neurips 2025.
 - *2025.08*: 🎉 Our papers [LARF](https://arxiv.org/pdf/2507.18631), [Visco-attack](https://arxiv.org/pdf/2507.02844) and [RMS](https://arxiv.org/pdf/2509.04403) have been accepted by EMNLP 2025.
@@ -47,7 +48,7 @@ Topics: AI Safety/ Agent / Understanding
 
 (*: indicates equal contribution; ‡: indicates corresponding)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/CIA_attack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/efficient-agent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
