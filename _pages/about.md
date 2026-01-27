@@ -161,6 +161,22 @@ Preprint, 2025
 
 <!-- ------------------------------------------------------------- -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/paper_imgs/mis_bench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Rethinking bottlenecks in safety fine-tuning of vision language models**
+
+Yi Ding<sup>*</sup>, **Lijun Li**<sup>*</sup>, Bing Cao<sup>‡</sup>, Jing Shao<sup>‡</sup>
+
+ICLR 2026
+
+[Paper](https://arxiv.org/pdf/2501.18533) [Project](https://dripnowhy.github.io/MIS/) [Data](https://huggingface.co/datasets/Tuwhy/MIS_Train) 
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech report</div><img src='images/paper_imgs/safework-r1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -289,21 +305,6 @@ CVPR 2025
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/mis_bench.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Rethinking bottlenecks in safety fine-tuning of vision language models**
-
-Yi Ding<sup>*</sup>, **Lijun Li**<sup>*</sup>, Bing Cao<sup>‡</sup>, Jing Shao<sup>‡</sup>
-
-Preprint, 2025
-
-[Paper](https://arxiv.org/pdf/2501.18533) [Project](https://dripnowhy.github.io/MIS/) [Data](https://huggingface.co/datasets/Tuwhy/MIS_Train) 
-
-</div>
-</div>
-
-<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 </div><img src='images/paper_imgs/psysafe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
