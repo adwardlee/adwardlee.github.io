@@ -29,7 +29,7 @@ My research interests lie at the nexus of AI safety and visual understanding. I 
 
 
 # 🔥 News
-- *2026.01*: 🎉 Our paper [MIS](https://arxiv.org/pdf/2501.18533) has been accepted by ICLR 2026.
+- *2026.01*: 🎉 Our papers [MIS](https://arxiv.org/pdf/2501.18533) [GhostEI-Bench](https://arxiv.org/pdf/2510.20333) have been accepted by ICLR 2026.
 - *2026.01*: 🎉 We release a comprehensive survey paper about [Efficient Agent](https://arxiv.org/pdf/2601.14192).
 - *2025.11*：🎉 Our paper [Response Attack](https://arxiv.org/pdf/2507.05248) has been accepted by AAAI 2026.
 - *2025.09*: 🎉 Our paper [PURE](https://arxiv.org/pdf/2504.15275) has been accepted by Neurips 2025.
@@ -74,7 +74,7 @@ Yutao Mou, Zhangchi Xue, Lijun Li<sup>‡</sup>, Peiyang Liu, Shikun Zhang, Wei 
 
 Preprint, 2026
 
-[Paper](https://arxiv.org/pdf/2601.10156) [Code](https://github.com/MurrayTom/ToolSafe)
+[Paper](https://arxiv.org/pdf/2601.10156) [Code](https://github.com/MurrayTom/ToolSafe) [Guard](https://huggingface.co/MurrayTom/TS-Guard)
 
 </div>
 </div>
@@ -89,7 +89,7 @@ Shaohan Yu<sup>*</sup>, Lijun Li<sup>*‡</sup>, Chenyang Si, Lu Sheng, Jing Sha
 
 Preprint, 2025
 
-[Paper](https://arxiv.org/pdf/2512.23573) [Code](https://github.com/yushaohan/ProGuard)
+[Paper](https://arxiv.org/pdf/2512.23573) [Code](https://github.com/yushaohan/ProGuard) [Guard-3B](https://huggingface.co/yushaohan/ProGuard-3B) [Guard-7B](https://huggingface.co/yushaohan/ProGuard-7B) [Dataset](https://huggingface.co/datasets/yushaohan/ProGuard-data)
 
 </div>
 </div>
