@@ -30,7 +30,7 @@ My research interests lie at the nexus of AI safety and visual understanding. I 
 
 # 🔥 News
 - *2026.04*: 🎉 Our papers [EGD](https://arxiv.org/pdf/2503.02368), [SEARL](https://adwardlee.github.io), [HarmRLVR](https://arxiv.org/pdf/2510.15499) and [ToolSafe](https://arxiv.org/pdf/2601.10156) have been accepted by ACL 2026.
-- *2026.02*：🎉 Our papers [TreeTeaming](https://arxiv.org/pdf/2603.22882) has been accepted by CVPR 2026.
+- *2026.02*：🎉 Our paper [TreeTeaming](https://arxiv.org/pdf/2603.22882) has been accepted by CVPR 2026.
 - *2026.01*: 🎉 Our papers [MIS](https://arxiv.org/pdf/2501.18533) and [GhostEI-Bench](https://arxiv.org/pdf/2510.20333) have been accepted by ICLR 2026.
 - *2026.01*: 🎉 We release a comprehensive survey paper about [Efficient Agent](https://arxiv.org/pdf/2601.14192).
 - *2025.11*：🎉 Our paper [Response Attack](https://arxiv.org/pdf/2507.05248) has been accepted by AAAI 2026.
