@@ -29,6 +29,8 @@ My research interests lie at the nexus of AI safety and visual understanding. I 
 
 
 # 🔥 News
+- *2026.04*: 🎉 Our papers [EGD](https://arxiv.org/pdf/2503.02368), [SEARL](https://adwardlee.github.io), [HarmRLVR](https://arxiv.org/pdf/2510.15499) and [ToolSafe](https://arxiv.org/pdf/2601.10156) have been accepted by ACL 2026.
+- *2026.02*：🎉 Our papers [TreeTeaming](https://arxiv.org/pdf/2603.22882) has been accepted by CVPR 2026.
 - *2026.01*: 🎉 Our papers [MIS](https://arxiv.org/pdf/2501.18533) and [GhostEI-Bench](https://arxiv.org/pdf/2510.20333) have been accepted by ICLR 2026.
 - *2026.01*: 🎉 We release a comprehensive survey paper about [Efficient Agent](https://arxiv.org/pdf/2601.14192).
 - *2025.11*：🎉 Our paper [Response Attack](https://arxiv.org/pdf/2507.05248) has been accepted by AAAI 2026.
@@ -48,6 +50,38 @@ My research interests lie at the nexus of AI safety and visual understanding. I 
 Topics: AI Safety/ Agent / Understanding
 
 (*: indicates equal contribution; ‡: indicates corresponding)
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/paper_imgs/iter_decoding.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Evolutionary Guided Decoding: Iterative Value Refinement for LLMs**
+
+Zhenhua Liu<sup>*</sup>, **Lijun Li**<sup>*</sup>, Ruizhe Chen, Yuxian Jiang, Tong Zhu, Zhaochen Su, Wenliang Chen, Jing Shao<sup>‡</sup>
+
+ACL 2026
+
+[Paper](https://arxiv.org/pdf/2503.02368)
+
+</div>
+</div>
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/paper_imgs/treeteaming.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**TreeTeaming: Autonomous Red-Teaming of Vision-Language Models via Hierarchical Strategy Exploration**
+
+Chunxiao Li, **Lijun Li**<sup>‡</sup>, Jing Shao<sup>‡</sup>
+
+CVPR 2026
+
+[Paper](https://arxiv.org/pdf/2603.22882)
+
+</div>
+</div>
+<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/efficient-agent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -271,21 +305,6 @@ ICML 2025
 </div>
 </div>
 
-<!-- ------------------------------------------------------------- -->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/iter_decoding.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Iterative value function optimization for guided decoding**
-
-Zhenhua Liu<sup>*</sup>, **Lijun Li**<sup>*</sup>, Ruizhe Chen, Yuxian Jiang, Tong Zhu, Zhaochen Su, Wenliang Chen, Jing Shao<sup>‡</sup>
-
-Preprint, 2025
-
-[Paper](https://arxiv.org/pdf/2503.02368)
-
-</div>
-</div>
 
 <!-- ------------------------------------------------------------- -->
 
