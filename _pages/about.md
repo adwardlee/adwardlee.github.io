@@ -29,7 +29,7 @@ My research interests lie at the nexus of AI safety and visual understanding. I 
 
 
 # 🔥 News
-- *2026.04*: 🎉 Our papers [EGD](https://arxiv.org/pdf/2503.02368), [SEARL](https://adwardlee.github.io), [HarmRLVR](https://arxiv.org/pdf/2510.15499) and [ToolSafe](https://arxiv.org/pdf/2601.10156) have been accepted by ACL 2026.
+- *2026.04*: 🎉 Our papers [EGD](https://arxiv.org/pdf/2503.02368), [SEARL](https://arxiv.org/pdf/2604.07791v1), [HarmRLVR](https://arxiv.org/pdf/2510.15499) and [ToolSafe](https://arxiv.org/pdf/2601.10156) have been accepted by ACL 2026.
 - *2026.02*：🎉 Our paper [TreeTeaming](https://arxiv.org/pdf/2603.22882) has been accepted by CVPR 2026.
 - *2026.01*: 🎉 Our papers [MIS](https://arxiv.org/pdf/2501.18533) and [GhostEI-Bench](https://arxiv.org/pdf/2510.20333) have been accepted by ICLR 2026.
 - *2026.01*: 🎉 We release a comprehensive survey paper about [Efficient Agent](https://arxiv.org/pdf/2601.14192).
@@ -68,6 +68,22 @@ ACL 2026
 </div>
 <!-- ------------------------------------------------------------- -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/paper_imgs/harmrlvr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**HarmRLVR: Weaponizing Verifiable Rewards for Harmful LLM Alignment**
+
+Yuexiao Liu<sup>*</sup>, **Lijun Li**<sup>*‡</sup>, Xingjun Wang, Jing Shao<sup>‡</sup>
+
+ACL 2026
+
+[Paper](https://arxiv.org/pdf/2510.15499) [Code](https://github.com/lyxx2535/HarmRLVR)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/paper_imgs/treeteaming.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -99,14 +115,14 @@ Preprint, 2026
 </div>
 
 <!-- ------------------------------------------------------------- -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/toolsafe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/paper_imgs/toolsafe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **ToolSafe: Enhancing Tool Invocation Safety of LLM-based agents via Proactive Step-level Guardrail and Feedback**
 
 Yutao Mou, Zhangchi Xue, Lijun Li<sup>‡</sup>, Peiyang Liu, Shikun Zhang, Wei Ye<sup>‡</sup>, Jing Shao<sup>‡</sup>
 
-Preprint, 2026
+ACL 2026
 
 [Paper](https://arxiv.org/pdf/2601.10156) [Code](https://github.com/MurrayTom/ToolSafe) [Guard](https://huggingface.co/MurrayTom/TS-Guard)
 
@@ -178,22 +194,6 @@ Preprint, 2025
 
 <!-- ------------------------------------------------------------- -->
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/harmrlvr.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**HarmRLVR: Weaponizing Verifiable Rewards for Harmful LLM Alignment**
-
-Yuexiao Liu<sup>*</sup>, **Lijun Li**<sup>*‡</sup>, Xingjun Wang, Jing Shao<sup>‡</sup>
-
-Preprint, 2025
-
-[Paper](https://arxiv.org/pdf/2510.15499) [Code](https://github.com/lyxx2535/HarmRLVR)
-
-</div>
-</div>
-
-<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/paper_imgs/mis_bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
