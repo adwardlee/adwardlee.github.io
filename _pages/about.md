@@ -29,6 +29,7 @@ My research interests lie at the nexus of AI safety and visual understanding. I 
 
 
 # 🔥 News
+- *2026.05*： Our papers [OpenSafeRL](https://openreview.net/forum?id=bvnuXYMgjg) and [MemGuard](https://arxiv.org/pdf/2510.02373) have been accepted by ICML 2026.
 - *2026.04*: 🎉 Our papers [EGD](https://arxiv.org/pdf/2503.02368), [SEARL](https://arxiv.org/pdf/2604.07791v1), [HarmRLVR](https://arxiv.org/pdf/2510.15499) and [ToolSafe](https://arxiv.org/pdf/2601.10156) have been accepted by ACL 2026.
 - *2026.02*：🎉 Our paper [TreeTeaming](https://arxiv.org/pdf/2603.22882) has been accepted by CVPR 2026.
 - *2026.01*: 🎉 Our papers [MIS](https://arxiv.org/pdf/2501.18533) and [GhostEI-Bench](https://arxiv.org/pdf/2510.20333) have been accepted by ICLR 2026.
