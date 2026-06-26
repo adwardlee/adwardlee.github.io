@@ -29,6 +29,7 @@ My research interests lie at the nexus of AI safety and visual understanding. I 
 
 
 # 🔥 News
+- *2026.06*: Our papers [CIA](https://arxiv.org/pdf/2512.02973) has been accepted by ECCV 2026.
 - *2026.05*： Our papers [OpenSafeRL](https://openreview.net/forum?id=bvnuXYMgjg) and [MemGuard](https://arxiv.org/pdf/2510.02373) have been accepted by ICML 2026.
 - *2026.04*: 🎉 Our papers [EGD](https://arxiv.org/pdf/2503.02368), [SEARL](https://arxiv.org/pdf/2604.07791v1), [HarmRLVR](https://arxiv.org/pdf/2510.15499) and [ToolSafe](https://arxiv.org/pdf/2601.10156) have been accepted by ACL 2026.
 - *2026.02*：🎉 Our paper [TreeTeaming](https://arxiv.org/pdf/2603.22882) has been accepted by CVPR 2026.
@@ -147,14 +148,14 @@ Preprint, 2025
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_imgs/CIA_attack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/paper_imgs/CIA_attack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Contextual Image Attack: How Visual Context Exposes Multimodal Safety Vulnerabilities**
 
 Yuan Xiong<sup>*</sup>, Ziqi Miao<sup>*</sup>, **Lijun Li**<sup>*‡</sup>, Chen Qian, Jie Li, Jing Shao<sup>‡</sup>
 
-Preprint, 2025
+ECCV 2026
 
 [Paper](https://arxiv.org/pdf/2512.02973) [Code](https://github.com/xiongyuaay/Contextual-Image-Attack)
 
