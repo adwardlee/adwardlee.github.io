@@ -464,13 +464,22 @@ ICML 2019
 - Reviewer for ICLR/ICML/NIPS/CVPR/ICCV/ARR since 2023
 
 
-<div id="clustrmaps-container" style="width: 250px; height: 250px; overflow: hidden; display: inline-block;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=iyHOuSXOuyzJU7Wg20gI3dp8vVRLSMxuGfvfe03TqWo"></script>
+<div class="visitor-stats" aria-label="Website visitor statistics">
+  <span>Total visits <strong id="vercount_value_site_pv">Loading...</strong></span>
+  <span>Visitors <strong id="vercount_value_site_uv">Loading...</strong></span>
 </div>
+<script defer src="https://events.vercount.one/js"></script>
+<noscript>Visitor statistics require JavaScript.</noscript>
 <style>
-#clustrmaps-container > * {
-  transform: scale(1); /* 缩小到50%，可根据需要调整 */
-  transform-origin: top left;
-  display: block;
+.visitor-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.25rem;
+  margin-top: 2rem;
+  color: #7a8288;
+  font-size: 0.75em;
+}
+.visitor-stats strong {
+  color: #494e52;
 }
 </style>
