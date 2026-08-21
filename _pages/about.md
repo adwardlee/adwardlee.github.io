@@ -462,3 +462,21 @@ ICML 2019
 - 2024.07, Workshop Organizer, ICML 2024 workshop on [Trustworthy Multi-modal Foundation Models and AI Agents (TiFA)](https://icml-tifa.github.io/)
 - Area Chair for ARR since 2025
 - Reviewer for ICLR/ICML/NIPS/CVPR/ICCV/ARR since 2023
+
+<div class="visitor-map" aria-label="Visitor map">
+  <script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=3puOTa8sg1c9BCATNdX8FuYnYDsHVG4beINTPtCoBt4"></script>
+  <noscript><a href="https://mapmyvisitors.com/web/1c76t">View visitor map and statistics</a></noscript>
+</div>
+
+<style>
+.visitor-map {
+  margin: 2rem auto 0;
+  overflow: hidden;
+  text-align: center;
+}
+.visitor-map canvas,
+.visitor-map iframe,
+.visitor-map img {
+  max-width: 100%;
+}
+</style>
