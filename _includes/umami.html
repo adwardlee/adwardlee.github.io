@@ -1,0 +1,8 @@
+{% if page.analytics != false and site.umami.script_url and site.umami.website_id %}
+<script
+  defer
+  src="{{ site.umami.script_url }}"
+  data-website-id="{{ site.umami.website_id }}"
+  data-domains="{{ site.umami.domains }}">
+</script>
+{% endif %}
