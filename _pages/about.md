@@ -464,7 +464,7 @@ ICML 2019
 - Reviewer for ICLR/ICML/NIPS/CVPR/ICCV/ARR since 2023
 
 <div class="visitor-map" aria-label="Visitor map">
-  <script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=3puOTa8sg1c9BCATNdX8FuYnYDsHVG4beINTPtCoBt4"></script>
+  <script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=3puOTa8sg1c9BCATNdX8FuYnYDsHVG4beINTPtCoBt4&amp;w=200"></script>
   <noscript><a href="https://mapmyvisitors.com/web/1c76t">View visitor map and statistics</a></noscript>
 </div>
 
@@ -473,6 +473,14 @@ ICML 2019
   margin: 2rem auto 0;
   overflow: hidden;
   text-align: center;
+}
+.visitor-map .mmvst_outer {
+  margin: 0 auto !important;
+  width: 200px !important;
+}
+.visitor-map .mmvst_inner {
+  display: block !important;
+  margin: 0 auto !important;
 }
 .visitor-map canvas,
 .visitor-map iframe,
