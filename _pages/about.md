@@ -472,7 +472,7 @@ ICML 2019
 
 <style>
 .visitor-map {
-  margin: 2rem auto 0;
+  margin: 2rem auto 1rem;
   max-width: 100%;
   overflow: hidden;
   text-align: center;
