@@ -463,32 +463,21 @@ ICML 2019
 - Area Chair for ARR since 2025
 - Reviewer for ICLR/ICML/NIPS/CVPR/ICCV/ARR since 2023
 
-<div class="visitor-map" aria-label="Visitor map">
-  <script src="{{ '/assets/js/vendor/jquery/jquery-1.12.4.min.js' | relative_url }}"></script>
-  <script>window.globe_jq = window.jQuery ? window.jQuery.noConflict(true) : undefined;</script>
-  <script defer type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=0SxvvKSuaXbTA1IWXTdgCi0gAuZ-XQWFfbAWMyJvKnc" onload="var statsLink = document.getElementById('mmvst_a'); if (statsLink) { statsLink.href = 'https://mapmyvisitors.com/web/1c7m6'; statsLink.title = 'View visitor statistics'; }"></script>
-  <noscript>Visitor map requires JavaScript.</noscript>
+<div class="visitor-counter" aria-label="Visitor counter">
+  <a href="https://info.flagcounter.com/aWRh"><img src="https://s01.flagcounter.com/count2/aWRh/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_20/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 </div>
 
 <style>
-.visitor-map {
+.visitor-counter {
   margin: 2rem auto 1rem;
   max-width: 100%;
-  overflow: hidden;
   text-align: center;
-  width: 200px;
 }
-.visitor-map .mmvst_outer {
-  margin: 0 auto !important;
-  width: 200px !important;
+.visitor-counter a {
+  display: inline-block;
 }
-.visitor-map .mmvst_inner {
-  display: block !important;
-  margin: 0 auto !important;
-}
-.visitor-map canvas,
-.visitor-map iframe,
-.visitor-map img {
+.visitor-counter img {
+  height: auto;
   max-width: 100%;
 }
 </style>
