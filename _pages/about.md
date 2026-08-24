@@ -466,7 +466,7 @@ ICML 2019
 <div class="visitor-map" aria-label="Visitor map">
   <script src="{{ '/assets/js/vendor/jquery/jquery-1.12.4.min.js' | relative_url }}"></script>
   <script>window.globe_jq = window.jQuery ? window.jQuery.noConflict(true) : undefined;</script>
-  <script defer type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=0SxvvKSuaXbTA1IWXTdgCi0gAuZ-XQWFfbAWMyJvKnc"></script>
+  <script defer type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=0SxvvKSuaXbTA1IWXTdgCi0gAuZ-XQWFfbAWMyJvKnc" onload="var statsLink = document.getElementById('mmvst_a'); if (statsLink) { statsLink.href = 'https://mapmyvisitors.com/web/1c7m6'; statsLink.title = 'View visitor statistics'; }"></script>
   <noscript>Visitor map requires JavaScript.</noscript>
 </div>
 
