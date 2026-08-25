@@ -65,6 +65,45 @@ Some examples:
 1. If you change the source code of the website, the livereload server will automatically refresh.
 1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
 
+## Analytics and Backups
+
+The production homepage uses a self-hosted [Umami](https://umami.is/) instance
+for private analytics:
+
+- Homepage: `https://adwardlee.github.io`
+- Umami deployment: `https://adwardlee-umami.vercel.app`
+- Umami website ID: `c71e43d4-5973-41ad-8380-35c25de7d493`
+- Data flow: GitHub Pages -> Umami on Vercel -> Neon PostgreSQL
+
+The homepage integration is maintained in these files:
+
+- `_config.yml`: Umami script URL, website ID, and allowed domain.
+- `_includes/umami.html`: renders the Umami tracking script.
+- `_includes/scripts.html`: includes the tracker on pages where analytics are
+  enabled. A page can opt out with `analytics: false` in its front matter.
+
+When changing the Umami deployment URL, website ID, or tracked domain, update
+the `umami` section in `_config.yml`. Do not hard-code those values in multiple
+templates. After deployment, verify that `script.js` loads successfully and
+that a page view sends a successful request to the Umami `/api/send` endpoint.
+Country, region, city, page-view, and anonymous-session data are written
+automatically to Neon; no manual export is required during normal operation.
+
+Encrypted disaster-recovery backups are managed in the private
+[adwardlee/umami-backups](https://github.com/adwardlee/umami-backups)
+repository. Its `Monthly Umami database backup` GitHub Actions workflow runs on
+the first day of each month at 03:17 UTC (11:17 Hong Kong time) and stores the
+encrypted PostgreSQL dump and checksum in a private GitHub Release. See that
+repository's README and `restore.sh` for setup and recovery instructions.
+
+Never commit database connection strings, Umami passwords, Vercel or GitHub
+tokens, `APP_SECRET`, `TWO_FACTOR_ENCRYPTION_KEY`, or
+`UMAMI_BACKUP_PASSPHRASE`. These values belong in the relevant service's secret
+settings and, where appropriate, the owner's password manager.
+
+The visible Flag Counter on the homepage is independent of Umami and is not a
+database backup or a replacement for the private analytics data.
+
 # Acknowledges
 
 - AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
