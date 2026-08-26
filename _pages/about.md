@@ -29,7 +29,8 @@ My research interests lie at the nexus of AI safety and visual understanding. I 
 
 
 # 🔥 News
-- *2026.07*: Our paper [EGD](https://arxiv.org/pdf/2503.02368) is awarded as ACL 2026 *Outstanding paper*.
+- *2026.08*: Our papers [PRCO](https://arxiv.org/pdf/2603.28618), [Tabsieve](https://arxiv.org/pdf/2602.11700), [LAGR](https://arxiv.org/pdf/2602.22556), [NarrativeAttack](https://arxiv.org/pdf/2509.26473) and other 4 papers are accepted by EMNLP 2026.
+- *2026.07*: Our paper [EGD](https://arxiv.org/pdf/2503.02368) is awarded as ACL 2026 *Outstanding paper*（~0.4% of accepted papers）.
 - *2026.06*: Our papers [CIA](https://arxiv.org/pdf/2512.02973) has been accepted by ECCV 2026.
 - *2026.05*： Our papers [OpenSafeRL](https://openreview.net/pdf?id=6rRs6PpPmg) and [MemGuard](https://arxiv.org/pdf/2510.02373) have been accepted by ICML 2026.
 - *2026.04*: 🎉 Our papers [EGD](https://arxiv.org/pdf/2503.02368), [SEARL](https://arxiv.org/pdf/2604.07791v1), [HarmRLVR](https://arxiv.org/pdf/2510.15499) and [ToolSafe](https://arxiv.org/pdf/2601.10156) have been accepted by ACL 2026.
@@ -42,7 +43,7 @@ My research interests lie at the nexus of AI safety and visual understanding. I 
 - *2025.07*: 🎉 We release a safety-enhanced framework [SafeWork-R1](https://arxiv.org/pdf/2507.18576) for VLM.
 - *2025.05*: 🎉 Our paper [WorldSimBench](https://arxiv.org/pdf/2410.18072) has been accepted by ICML 2025.
 - *2025.02*: 🎉 Our paper [T2ISafety](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_T2ISafety_Benchmark_for_Assessing_Fairness_Toxicity_and_Privacy_in_Image_CVPR_2025_paper.pdf) has been accepted by CVPR 2025. 
-- *2024.05*: 🎉 Our papers [SALAD-Bench](https://aclanthology.org/2024.findings-acl.235.pdf) and [PsySafe](https://aclanthology.org/2024.acl-long.812.pdf) have been accepted by ACL 2024. **PsySafe** is awarded as **Outstanding paper**.
+- *2024.05*: 🎉 Our papers [SALAD-Bench](https://aclanthology.org/2024.findings-acl.235.pdf) and [PsySafe](https://aclanthology.org/2024.acl-long.812.pdf) have been accepted by ACL 2024. **PsySafe** is awarded as **Outstanding paper**（~1.8% of accepted papers）.
 - *2024.03*: 🎉 We release an easy-to-use Python framework to generate adversarial jailbreak prompts at [website](http://easyjailbreak.org/).
 - *2023*: 🎉 Our paper [RenderIH](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_RenderIH_A_Large-Scale_Synthetic_Dataset_for_3D_Interacting_Hand_Pose_ICCV_2023_paper.pdf) has been accepted by ICCV 2023.
 - *2022.05*: 🎉🎉 We rank 1st at the Action Detection track of [EPIC@CVPR2022 Workshop](https://epic-kitchens.github.io/2022#results)
