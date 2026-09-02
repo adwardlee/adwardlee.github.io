@@ -29,7 +29,7 @@ My research interests lie at the nexus of AI safety and visual understanding. I 
 
 
 # 🔥 News
-- *2026.08*: 8 papers including [PRCO](https://arxiv.org/pdf/2603.28618), [Tabsieve](https://arxiv.org/pdf/2602.11700), [LAGR](https://arxiv.org/pdf/2602.22556), [NarrativeAttack](https://arxiv.org/pdf/2509.26473) are accepted by EMNLP 2026.
+- *2026.08*: 7 MAIN and 1 FIND papers including [PRCO](https://arxiv.org/pdf/2603.28618), [Tabsieve](https://arxiv.org/pdf/2602.11700), [LAGR](https://arxiv.org/pdf/2602.22556), [NarrativeAttack](https://arxiv.org/pdf/2509.26473) are accepted by EMNLP 2026.
 - *2026.07*: Our paper [EGD](https://arxiv.org/pdf/2503.02368) is awarded as ACL 2026 *Outstanding paper*（~0.4% of accepted papers）.
 - *2026.06*: Our papers [CIA](https://arxiv.org/pdf/2512.02973) has been accepted by ECCV 2026.
 - *2026.05*： Our papers [OpenSafeRL](https://openreview.net/pdf?id=6rRs6PpPmg) and [MemGuard](https://arxiv.org/pdf/2510.02373) have been accepted by ICML 2026.
